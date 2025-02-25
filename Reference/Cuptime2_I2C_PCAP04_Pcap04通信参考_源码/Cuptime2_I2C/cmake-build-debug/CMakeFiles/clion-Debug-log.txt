@@ -1,0 +1,70 @@
+"C:\Program Files\JetBrains\CLion 2021.3.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/MinGW/bin/mingw32-make.exe "-DCMAKE_C_COMPILER=C:/Program Files/STMicroelectronics/STM32Cube/GNU-Tools-ARM-Embeded/bin/arm-none-eabi-gcc.exe" "-DCMAKE_CXX_COMPILER=C:/Program Files/STMicroelectronics/STM32Cube/GNU-Tools-ARM-Embeded/bin/arm-none-eabi-g++.exe" -G "CodeBlocks - MinGW Makefiles" -S C:\Users\LiangGuang\OneDrive\Documents\PersonalProject\CapacitiveAngleSensor\Reference\Cuptime2_I2C_PCAP04_Pcap04通信参考_源码\Cuptime2_I2C -B C:\Users\LiangGuang\OneDrive\Documents\PersonalProject\CapacitiveAngleSensor\Reference\Cuptime2_I2C_PCAP04_Pcap04通信参考_源码\Cuptime2_I2C\cmake-build-debug
+-- The C compiler identification is GNU 10.3.1
+-- Detecting C compiler ABI info
+CMake Warning in C:/Users/LiangGuang/OneDrive/Documents/PersonalProject/CapacitiveAngleSensor/Reference/Cuptime2_I2C_PCAP04_Pcap04通信参考_源码/Cuptime2_I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gigojj/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/LiangGuang/OneDrive/Documents/PersonalProject/CapacitiveAngleSensor/Reference/Cuptime2_I2C_PCAP04_Pcap04通信参考_源码/Cuptime2_I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-gigojj/CMakeFiles/cmTC_367ce.dir/
+
+  has 232 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    CMakeCCompilerABI.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Detecting C compiler ABI info - failed
+-- Check for working C compiler: C:/Program Files/STMicroelectronics/STM32Cube/GNU-Tools-ARM-Embeded/bin/arm-none-eabi-gcc.exe
+CMake Warning in C:/Users/LiangGuang/OneDrive/Documents/PersonalProject/CapacitiveAngleSensor/Reference/Cuptime2_I2C_PCAP04_Pcap04通信参考_源码/Cuptime2_I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9r7c47/CMakeLists.txt:
+  The object file directory
+
+    C:/Users/LiangGuang/OneDrive/Documents/PersonalProject/CapacitiveAngleSensor/Reference/Cuptime2_I2C_PCAP04_Pcap04通信参考_源码/Cuptime2_I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9r7c47/CMakeFiles/cmTC_7f92e.dir/
+
+  has 232 characters.  The maximum full path to an object file is 250
+  characters (see CMAKE_OBJECT_PATH_MAX).  Object file
+
+    testCCompiler.c.obj
+
+  cannot be safely placed under this directory.  The build may not work
+  correctly.
+
+
+-- Check for working C compiler: C:/Program Files/STMicroelectronics/STM32Cube/GNU-Tools-ARM-Embeded/bin/arm-none-eabi-gcc.exe - broken
+CMake Error at C:/Program Files/JetBrains/CLion 2021.3.3/bin/cmake/win/x64/share/cmake-3.25/Modules/CMakeTestCCompiler.cmake:70 (message):
+  The C compiler
+
+    "C:/Program Files/STMicroelectronics/STM32Cube/GNU-Tools-ARM-Embeded/bin/arm-none-eabi-gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/Users/LiangGuang/OneDrive/Documents/PersonalProject/CapacitiveAngleSensor/Reference/Cuptime2_I2C_PCAP04_Pcap04通信参考_源码/Cuptime2_I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9r7c47
+    
+    Run Build Command(s):C:/MinGW/bin/mingw32-make.exe -f Makefile cmTC_7f92e/fast && C:/MinGW/bin/mingw32-make.exe  -f CMakeFiles\cmTC_7f92e.dir\build.make CMakeFiles/cmTC_7f92e.dir/build
+    mingw32-make.exe[1]: Entering directory 'C:/Users/LiangGuang/OneDrive/Documents/PersonalProject/CapacitiveAngleSensor/Reference/Cuptime2_I2C_PCAP04_Pcap04通信参考_源码/Cuptime2_I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9r7c47'
+    Building C object CMakeFiles/cmTC_7f92e.dir/testCCompiler.c.obj
+    C:\PROGRA~1\STMICR~1\STM32C~1\GNU-TO~1\bin\AR19DD~1.EXE   -fdiagnostics-color=always -o CMakeFiles\cmTC_7f92e.dir\testCCompiler.c.obj -c C:\Users\LiangGuang\OneDrive\Documents\PersonalProject\CapacitiveAngleSensor\Reference\Cuptime2_I2C_PCAP04_Pcap04閫氫俊鍙傝€僟婧愮爜\Cuptime2_I2C\cmake-build-debug\CMakeFiles\CMakeScratch\TryCompile-9r7c47\testCCompiler.c
+    AR19DD~1.EXE: error: C:\Users\LiangGuang\OneDrive\Documents\PersonalProject\CapacitiveAngleSensor\Reference\Cuptime2_I2C_PCAP04_Pcap04閫氫俊鍙傝€僟婧愮爜\Cuptime2_I2C\cmake-build-debug\CMakeFiles\CMakeScratch\TryCompile-9r7c47\testCCompiler.c: No such file or directory
+    AR19DD~1.EXE: fatal error: no input files
+    compilation terminated.
+    CMakeFiles\cmTC_7f92e.dir\build.make:76: recipe for target 'CMakeFiles/cmTC_7f92e.dir/testCCompiler.c.obj' failed
+    mingw32-make.exe[1]: *** [CMakeFiles/cmTC_7f92e.dir/testCCompiler.c.obj] Error 1
+    mingw32-make.exe[1]: Leaving directory 'C:/Users/LiangGuang/OneDrive/Documents/PersonalProject/CapacitiveAngleSensor/Reference/Cuptime2_I2C_PCAP04_Pcap04通信参考_源码/Cuptime2_I2C/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-9r7c47'
+    Makefile:126: recipe for target 'cmTC_7f92e/fast' failed
+    mingw32-make.exe: *** [cmTC_7f92e/fast] Error 2
+    
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/LiangGuang/OneDrive/Documents/PersonalProject/CapacitiveAngleSensor/Reference/Cuptime2_I2C_PCAP04_Pcap04通信参考_源码/Cuptime2_I2C/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/LiangGuang/OneDrive/Documents/PersonalProject/CapacitiveAngleSensor/Reference/Cuptime2_I2C_PCAP04_Pcap04通信参考_源码/Cuptime2_I2C/cmake-build-debug/CMakeFiles/CMakeError.log".

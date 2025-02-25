@@ -1,0 +1,3 @@
+C:/Users/LiangGuang/OneDrive/Documents/PersonalProject/CapacitiveAngleSensor/Software/MCS-Unit/cmake-build-debug-mingw/CMakeFiles/MCS-Unit.elf.dir
+C:/Users/LiangGuang/OneDrive/Documents/PersonalProject/CapacitiveAngleSensor/Software/MCS-Unit/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/LiangGuang/OneDrive/Documents/PersonalProject/CapacitiveAngleSensor/Software/MCS-Unit/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir

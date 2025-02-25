@@ -1,0 +1,28 @@
+The system is: Windows - 10.0.22621 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files/STMicroelectronics/STM32Cube/GNU-Tools-ARM-Embeded/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "C:/Users/LiangGuang/OneDrive/Documents/PersonalProject/CapacitiveAngleSensor/Reference/Cuptime2_I2C_PCAP04_Pcap04通信参考_源码/Cuptime2_I2C/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.o"
+
+The system is: Windows - 10.0.22621 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files/STMicroelectronics/STM32Cube/GNU-Tools-ARM-Embeded/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "C:/Users/LiangGuang/OneDrive/Documents/PersonalProject/CapacitiveAngleSensor/Reference/Cuptime2_I2C_PCAP04_Pcap04通信参考_源码/Cuptime2_I2C/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.o"
+

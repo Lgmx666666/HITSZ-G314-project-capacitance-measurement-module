@@ -1,0 +1,9 @@
+% Calibration Values saved 3/8/2019 16:11 by acam PCap04 Evaluation Software
+800	4	pi0_result0	07333335	27	u
+804	4	pi0_result1	08CCCCCD	27	u
+808	2	pi0_pulse0 (min)	0001	0	u
+810	2	pi0_pulse1 (max)	03FE	0	u
+812	4	pi1_result0	01666666	25	u
+816	4	pi1_result1	02333333	25	u
+820	2	pi1_pulse0 (min)	0001	0	u
+822	2	pi1_pulse1 (max)	03FE	0	u

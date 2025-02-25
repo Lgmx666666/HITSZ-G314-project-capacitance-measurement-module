@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "MAS-Unit",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "MAS-Unit.elf::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-MAS-Unit.elf-Debug-692a9b3903bc8eb1b81d.json",
+					"name" : "MAS-Unit.elf",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/liang/OneDrive/Documents/PersonalProject/CapacitiveAngleSensor/Software/MAS-Unit/cmake-build-debug",
+		"source" : "C:/Users/liang/OneDrive/Documents/PersonalProject/CapacitiveAngleSensor/Software/MAS-Unit"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

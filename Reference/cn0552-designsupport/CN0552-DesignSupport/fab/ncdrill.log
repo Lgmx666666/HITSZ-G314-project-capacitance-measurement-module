@@ -1,0 +1,67 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : 08_065434b.brd                                )
+(    Software Version : 17.4S018                                      )
+(    Date/Time        : Thu Aug  5 14:02:53 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		3.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	YES
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		YES
+ TOOL-SELECT		YES
+ HEADER			08_065434b
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	YES
+ ENHANCED_EXCELLON	YES
+ SCALE			1.000000
+
+ WARNING(SPMHMF-368): Cannot find NC Drill tool file 'nc_tools.txt'
+ WARNING(SPMHMF-369): ... will auto-generate tool file 'nc_tools_auto.txt'.
+
+
+     Auto-generating tool file 'nc_tools_auto.txt' ...
+
+           Size  Plating  Tool        + Tolerance  - Tolerance
+
+         0.2540  P        T01            0.000000     0.000000
+         0.8890  P        T02            0.000000     0.000000
+         1.1430  P        T03            0.000000     0.000000
+
+
+Drill files being output to directory 'C:/tmp/20_065434b/worklib/02_065434b_top/physical' ...
+
+
+
+     'ncdrill-1-4.drl' created for holes connecting TOP and BOTTOM
+     -------------------------------------------------------------
+
+     Tool  Num     Size      +/- Tolerance     Plating   Quantity
+
+     T01    1.   0.2540    0.0000/  0.0000      PLATED        140
+     T02    2.   0.8890    0.0000/  0.0000      PLATED          5
+     T03    3.   1.1430    0.0000/  0.0000      PLATED         22
+
+     ---- Total holes:                                        167
+
+     ---- Total head travel:              1.50 feet (0.46 meters)
+

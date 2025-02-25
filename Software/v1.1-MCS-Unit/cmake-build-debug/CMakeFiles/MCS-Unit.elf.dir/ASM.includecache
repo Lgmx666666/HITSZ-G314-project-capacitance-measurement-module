@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/liang/OneDrive/Documents/PersonalProject/CapacitiveAngleSensor/Software/MCS-Unit/Core/Startup/startup_stm32f411ceux.s
+

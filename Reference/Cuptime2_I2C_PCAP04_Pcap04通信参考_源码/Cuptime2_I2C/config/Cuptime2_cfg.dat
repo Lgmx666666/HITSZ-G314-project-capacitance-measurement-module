@@ -1,0 +1,14 @@
+org ROM_ADD_CFG
+equal 0x1058001D   ; Register 3, 2, 1, 0
+equal 0x200F0010   ; Register 7, 6, 5, 4
+equal 0x0007D000   ; Register 11, 10, 9, 8
+equal 0x03FF0800   ; Register 15, 14, 13, 12
+equal 0x00002400   ; Register 19, 18, 17, 16
+equal 0x30500100   ; Register 23, 22, 21, 20
+equal 0x08500473   ; Register 27, 26, 25, 24
+equal 0x0882005A   ; Register 31, 30, 29, 28
+equal 0x40470008   ; Register 35, 34, 33, 32
+equal 0x71000000   ; Register 39, 38, 37, 36
+equal 0x00080000   ; Register 43, 42, 41, 40
+equal 0x01000000   ; Register 47, 46, 45, 44
+equal 0x00000000   ; Register 51, 50, 49, 48

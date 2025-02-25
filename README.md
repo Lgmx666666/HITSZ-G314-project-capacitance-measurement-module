@@ -1,2 +1,8 @@
 # 前言
-# HITSZ-G314-project-capacitance-measurement-module
+该项目使用PCAP04这款电容测量芯片用于电容式传感器的研发，现将相关资料公开以供参考学习
+
+# 介绍
+
+1. Hardware：硬件设计资料
+2. Software：软件设计资料
+3. Reference：一些参考资料，包括硬件设计中所用到芯片器件的Datasheets
