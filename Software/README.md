@@ -4,7 +4,7 @@
 代码工程文件夹的命名与Hardware的版本号相对应。
 
 ## 开发环境
-1.本人使用的开发环境为STM32CUBEMX+Clion，相应的搭建教程可以参考[博客：点击此处]((https://blog.csdn.net/ctrlthh/article/details/131471750)
+1.本人使用的开发环境为STM32CUBEMX+Clion，相应的搭建教程可以参考[博客：点击此处](https://blog.csdn.net/ctrlthh/article/details/131471750)
 2.另外还可以选择使用STM32CUBEMX+Keil来开发，只需对给出的工程文件进行移植
 
 ## PCAP04的驱动问题
